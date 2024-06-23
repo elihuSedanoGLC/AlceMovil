@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Login-->
+    <string name="error_invalid_email">La dirección de correo no es valida</string>
+    <string name="error_invalid_password">La contraseña debe ser de 4 caracteres minimo</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="error_auth">Las credenciales son incorrectas</string>
+
+</resources>

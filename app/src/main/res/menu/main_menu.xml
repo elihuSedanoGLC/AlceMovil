@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:icon="@drawable/add_home"
+            android:title="@string/home"
+            />
+        <item android:id="@+id/entradaPersonal"
+            android:icon="@drawable/car_crash"
+            android:title="@string/persona"
+            />
+        <item android:id="@+id/fruta"
+            android:icon="@drawable/arrow_back"
+            android:title="@string/fruta"
+            />
+    </group>
+</menu>
